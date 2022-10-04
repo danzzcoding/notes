@@ -1,4 +1,3 @@
-# notes
-## Pindah rest api ke:
+# PINDAH REST API!!!
 
-<a href="https://danzzapi.xyz"> Sini
+<a href="https://danzzapi.xyz"> danzzapi.xyz
